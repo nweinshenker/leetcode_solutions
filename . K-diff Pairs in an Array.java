@@ -1,4 +1,6 @@
 import java.util.*;
+import java.util.HashSet;
+
 
 class Solution {
     public int findPairs(int[] nums, int k) {
