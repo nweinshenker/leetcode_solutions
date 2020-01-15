@@ -1,3 +1,4 @@
+// Option 1 of the algorithm 5 % speed
 class Solution {
     public void reverseString(char[] s) {
         int start = 0;
@@ -18,3 +19,5 @@ class Solution {
         s[end] = temp;
     }
 }
+
+// Option 2
