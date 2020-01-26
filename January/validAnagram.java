@@ -1,5 +1,7 @@
 package January;
 
+import java.util.Arrays;
+
 public class validAnagram {
     public boolean isAnagram(String s, String t) {
         boolean isAnagram = true;
@@ -24,5 +26,28 @@ public class validAnagram {
 
         return isAnagram;
 
+    }
+    
+    public boolean isAnagram2(String s, String t) {
+        if (s.length() != t.length()) {
+            return false;
+        }
+
+        int[] table = new int[26];
+        for (int i = 0; i < s.length(); i++) {
+            int idx = s.charAt(i) - 'a';
+            System.out.println(idx);
+            table[idx]++;
+        }
+
+        for (int i = 0; i < t.length(); i++) {
+            int idx = t.charAt(i) - 'a';
+            table[idx]--;
+            if (table[idx] < 0) {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
