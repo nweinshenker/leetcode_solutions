@@ -1,3 +1,5 @@
+package January;
+
 class Solution {
     public int maximumSwap(int num) {
         char[] A = Integer.toString(num).toCharArray();

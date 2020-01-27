@@ -1,3 +1,5 @@
+package January;
+
 class twoSumSorted {
     public int[] twoSum(int[] numbers, int target) {
         if (numbers.length < 2 || numbers == null) {
