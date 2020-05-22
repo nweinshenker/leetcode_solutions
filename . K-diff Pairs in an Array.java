@@ -7,12 +7,12 @@ class Solution {
         if (k < 0)
             return 0;
         int res = 0;
-        Set<Integer> set = new HashSet();
+        Set<Integer> set = new HashSet<>();
         // if k == 0 we need to count only repeated nums
         // for that we need second set that indicats which num we have
         // count already
         if (k == 0) {
-            Set<Integer> seen = new HashSet();
+            Set<Integer> seen = new HashSet<>();
             for (int n : nums) {
                 // if we met this num before - add it to the second set
                 if (set.contains(n)) {
