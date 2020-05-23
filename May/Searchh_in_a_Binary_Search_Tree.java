@@ -1,5 +1,19 @@
 package May;
 
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode(int val) {
+        this.val = val;
+    }
+    TreeNode(int val , TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+
 public class Searchh_in_a_Binary_Search_Tree {
     public TreeNode searchBST(TreeNode root, int val) {
         if (root == null) {
