@@ -7,7 +7,6 @@ public class Max_Consecutive_Ones {
         }
 
         int max = Integer.MIN_VALUE;
-        int curr = nums[0];
         int freq = 0;
         for (int x : nums) {
             if (x == 1) {

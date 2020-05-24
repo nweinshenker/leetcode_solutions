@@ -1,7 +1,5 @@
 package May.DepthFirstSearch;
 
-import May.DepthFirstSearch.*;
-
 public class Sum_Of_Left_Leaves {
 
     public int sumOfLeftLeaves(TreeNode root) {
