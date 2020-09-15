@@ -13,6 +13,5 @@ for the leetcode problems that I've solved as well as the solutions
 |---| :---------------:|:------------:| :----------------:| :---------:|
 | 241 | Flatten Nested List Iterator | [Java Solution](./September/Flatten-Nested-List-Iterator.java)| [LeetCode Solution](https://leetcode.com/problems/flatten-nested-list-iterator/solution/)| Medium |
 |566| Reshape the Matrix| [Java Solution](./September/Reshape-the-Matrix.java) | [LeetCode Solution](https://leetcode.com/problems/reshape-the-matrix/solution/) | Easy |
-
-| 682| Baseball Game | [Java Solution](./Stack/Baseball-Game.java) | [LeetCode Solution](https://leetcode.com/problems/baseball-game/solution/) | Easy|
-|1544| Make-the-String-Great | [Java Solution](./Stack/Make-the-String-Great.java) | [LeetCode Solution]() | Easy|
+| 682 | Baseball Game | [Java Solution](./Stack/Baseball-Game.java) | [LeetCode Solution](https://leetcode.com/problems/baseball-game/solution/) | Easy |
+| 1544 | Make-the-String-Great | [Java Solution](./Stack/Make-the-String-Great.java) | [LeetCode Solution]() | Easy |
