@@ -15,4 +15,5 @@ for the leetcode problems that I've solved as well as the solutions
 |566| Reshape the Matrix| [Java Solution](./September/Reshape-the-Matrix.java) | [LeetCode Solution](https://leetcode.com/problems/reshape-the-matrix/solution/) | Easy | Matrix/Array|
 | 682 | Baseball Game | [Java Solution](./Stack/Baseball-Game.java) | [LeetCode Solution](https://leetcode.com/problems/baseball-game/solution/) | Easy | Stack |
 | 1544 | Make-the-String-Great | [Java Solution](./Stack/Make-the-String-Great.java) | [LeetCode Solution]() | Easy | Stack|
-| 921 | Minimum Add to Make Parentheses Valid | [Java Solution](./Stack/Minimum-add-to-make-Parentheses-Valid.java) | [Leetcode Solution](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solution/) | Medium|
+| 921 | Minimum Add to Make Parentheses Valid | [Java Solution](./Stack/Minimum-add-to-make-Parentheses-Valid.java) | [Leetcode Solution](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solution/) | Medium| Stack |
+| 22 | Generate Parentheses | [Java Solution](./Backtracking/Generate-Parentheses.java) | [Leetcode Solution](https://leetcode.com/problems/generate-parentheses/submissions/) | Medium | Backtracking |
