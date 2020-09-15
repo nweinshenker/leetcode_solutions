@@ -11,5 +11,6 @@ for the leetcode problems that I've solved as well as the solutions
 # Table of LeetCode Solutions
 | # | Problem          | My Solution  | LeetCode Solution | Difficulty |
 |---| :---------------:|:------------:| :----------------:| :---------:|
-| 241 | Flatten Nested List Iterator | [Java Solution](./September/Flatten-Nested-List-Iterator.java)| [LeetCode Solution](https://leetcode.com/problems/flatten-nested-list-iterator/solution/)| Medium|
+| 241 | Flatten Nested List Iterator | [Java Solution](./September/Flatten-Nested-List-Iterator.java)| [LeetCode Solution](https://leetcode.com/problems/flatten-nested-list-iterator/solution/)| Medium |
+|566| Reshape the Matrix| [Java Solution](./September/Reshape-the-Matrix.java) | [LeetCode Solution](https://leetcode.com/problems/reshape-the-matrix/solution/) | Easy |
 
