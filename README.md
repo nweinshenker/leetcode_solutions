@@ -20,3 +20,4 @@ for the leetcode problems that I've solved as well as the solutions
 | 289 | Game of Life | [Java Solution](./Array/Game-Of-Life.java) | [Leetcode Solution](https://leetcode.com/problems/game-of-life/solution/) | Medium | Array|
 | 394 | Decode String | [Jave Solution](./Stack/Decode-String.java) | [Leetcode Solution](https://leetcode.com/problems/decode-string/) | Medium | Stack |
 | 1079 | Letter Tiles Possibilites | [Java Solution](./Backtracking/Letter-Tiles-Possbilites.java) | [Leetcode Solution]() | Medium | BackTracking|
+| 811 | Subdomain Visit Count | [Java Solution] (./Hash Table/Subdomain-Visit-Count.java) [Leetcode Solution](https://leetcode.com/problems/subdomain-visit-count/solution/) | Easy | Hash Table |
