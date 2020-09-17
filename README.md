@@ -17,3 +17,4 @@ for the leetcode problems that I've solved as well as the solutions
 | 1544 | Make-the-String-Great | [Java Solution](./Stack/Make-the-String-Great.java) | [LeetCode Solution]() | Easy | Stack|
 | 921 | Minimum Add to Make Parentheses Valid | [Java Solution](./Stack/Minimum-add-to-make-Parentheses-Valid.java) | [Leetcode Solution](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solution/) | Medium| Stack |
 | 22 | Generate Parentheses | [Java Solution](./Backtracking/Generate-Parentheses.java) | [Leetcode Solution](https://leetcode.com/problems/generate-parentheses/submissions/) | Medium | Backtracking |
+| 289 | Game of Life | [Java Solution](./Array/Game-Of-Life.java) | [Leetcode Solution](https://leetcode.com/problems/game-of-life/solution/) | Medium | Array|
