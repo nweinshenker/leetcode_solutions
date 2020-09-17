@@ -18,3 +18,5 @@ for the leetcode problems that I've solved as well as the solutions
 | 921 | Minimum Add to Make Parentheses Valid | [Java Solution](./Stack/Minimum-add-to-make-Parentheses-Valid.java) | [Leetcode Solution](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solution/) | Medium| Stack |
 | 22 | Generate Parentheses | [Java Solution](./Backtracking/Generate-Parentheses.java) | [Leetcode Solution](https://leetcode.com/problems/generate-parentheses/submissions/) | Medium | Backtracking |
 | 289 | Game of Life | [Java Solution](./Array/Game-Of-Life.java) | [Leetcode Solution](https://leetcode.com/problems/game-of-life/solution/) | Medium | Array|
+| 394 | Decode String | [Jave Solution](./Stack/Decode-String.java) | [Leetcode Solution](https://leetcode.com/problems/decode-string/) | Medium | Stack |
+| 1079 | Letter Tiles Possibilites | [Java Solution](./Backtracking/Letter-Tiles-Possbilites.java) | [Leetcode Solution]() | Medium | BackTracking|
