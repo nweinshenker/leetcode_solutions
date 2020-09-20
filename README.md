@@ -28,4 +28,6 @@ for the leetcode problems that I've solved as well as the solutions
 | 198 | House Robber | [Java Solution](./DynamicProgramming/House-Robber.java) | [Leetcode Solution](https://leetcode.com/problems/house-robber/solution/) | Easy | DP |
 | 221 | Maximal Square | [Java Solution](./DynamicProgramming/Maximal-Square.java) | [Leetcode Solution](https://leetcode.com/problems/maximal-square/solution/) | Medium | DP |
 | 14 | Longest Common Prefix | [Java Solution](./String/Longest-Common-Prefix.java) | [Leetcode Solution](https://leetcode.com/problems/longest-common-prefix/solution/) | Easy | String |
-| 1299 | Replace All Elements | [Java Solution](./Array/Replace-All-Elements.java) | [Leetcode Solution](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | Array|
+| 1299 | Replace All Elements | [Java Solution](./Array/Replace-All-Elements.java) | [Leetcode Solution](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | Array| [Leetcode Solution](https://leetcode.com/problems/univalued-binary-tree/solution/) | Easy | Tree |
+| 1394 | Find Lucky Integer in an Array | [Java Solution](./HashTable/Find-Lucky-Integer.java) | [Leetcode Solution](https://leetcode.com/problems/find-lucky-integer-in-an-array/solution/) | Easy | Hash Table |
+| 1064 | Fixed Point | [Java Solution](./Array/Fixed-Point.java) | [Leetcode Solution](https://leetcode.com/problems/fixed-point/) | Easy | Array |
