@@ -25,3 +25,7 @@ for the leetcode problems that I've solved as well as the solutions
 | 20 | Valid Parentheses | [Java Solution](./Stack/Valid-Parenthesis) | [Leetcode Solution](https://leetcode.com/problems/valid-parentheses/solution/) | Easy | Stack |
 | 268 | Missing Number | [Java Solution](./BitManipulation/Missing-Number.java) | [Leetcode Solution](https://leetcode.com/problems/missing-number/solution/) | Easy | Bit Manipulation |
 | 190 | Reverse Bits | [Java Solution](./BitManipulations/Reverse-Bits.java) | [Leetcode Solution](https://leetcode.com/problems/reverse-bits/solution/) | Easy | Bit Manipulation |
+| 198 | House Robber | [Java Solution](./DynamicProgramming/House-Robber.java) | [Leetcode Solution](https://leetcode.com/problems/house-robber/solution/) | Easy | DP |
+| 221 | Maximal Square | [Java Solution](./DynamicProgramming/Maximal-Square.java) | [Leetcode Solution](https://leetcode.com/problems/maximal-square/solution/) | Medium | DP |
+| 14 | Longest Common Prefix | [Java Solution](./String/Longest-Common-Prefix.java) | [Leetcode Solution](https://leetcode.com/problems/longest-common-prefix/solution/) | Easy | String |
+| 1299 | Replace All Elements | [Java Solution](./Array/Replace-All-Elements.java) | [Leetcode Solution](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | Array|
