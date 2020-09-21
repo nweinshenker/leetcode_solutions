@@ -31,3 +31,8 @@ for the leetcode problems that I've solved as well as the solutions
 | 1299 | Replace All Elements | [Java Solution](./Array/Replace-All-Elements.java) | [Leetcode Solution](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | Array| [Leetcode Solution](https://leetcode.com/problems/univalued-binary-tree/solution/) | Easy | Tree |
 | 1394 | Find Lucky Integer in an Array | [Java Solution](./HashTable/Find-Lucky-Integer.java) | [Leetcode Solution](https://leetcode.com/problems/find-lucky-integer-in-an-array/solution/) | Easy | Hash Table |
 | 1064 | Fixed Point | [Java Solution](./Array/Fixed-Point.java) | [Leetcode Solution](https://leetcode.com/problems/fixed-point/) | Easy | Array |
+| 532 | K Diff Pairs in a Array| [Java Solution](./Array/K-diff-Pairs.java)| [Leetcode Solution](https://leetcode.com/problems/k-diff-pairs-in-an-array/solution/) | Easy | Array |
+
+
+
+
