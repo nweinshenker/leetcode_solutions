@@ -1,25 +1,30 @@
-import java.util.*;
-
 class Bucky {
-    private static int SQUAREDIM = 5;
-
     public static void main(String[] args) {
+        int WIDTH = 7;
+        int HEIGHT = 3;
         char ch = 'A';
-        String[][] array = new String[SQUAREDIM][];
-        for( int i = 0 ; i < SQUAREDIM; i++ ) {
-            array[i] = new String[SQUAREDIM];
-            for( int j = 0 ; j < SQUAREDIM; j++, ch++ ) {
+        String[][] array = new String[HEIGHT][];
+        for (int i = 0; i < HEIGHT; i++) {
+            array[i] = new String[WIDTH];
+            for (int j = 0; j < WIDTH; j++, ch++) {
                 array[i][j] = "" + ch;
             }
         }
 
-        printMatrix(array);
-    }
-
-    public static void printMatrix(String [][] array) {
-        for (int i = 0; i < SQUAREDIM; i++) {
-            for (int j = 0; j < SQUAREDIM; j++) {
+        for (int i = 0; i < HEIGHT; i++) {
+            for (int j = 0; j < WIDTH; j++, ch++) {
                 System.out.print(array[i][j] + " ");
+            }
+            System.out.println();
+        }
+        System.out.println("============================");
+
+        for (int k = 0; k <= WIDTH + HEIGHT - 2; k++) {
+            for (int j = 0; j <= k; j++) {
+                int i = k - j;
+                if (i < HEIGHT && j < WIDTH) {
+                    System.out.print(array[i][j] + " ");
+                }
             }
             System.out.println();
         }
