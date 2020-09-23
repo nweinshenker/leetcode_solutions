@@ -1,3 +1,7 @@
+package Stack;
+
+import java.util.Stack;
+
 class Solution {
     public int minAddToMakeValid(String S) {
         Stack<Character> stack = new Stack<>();
