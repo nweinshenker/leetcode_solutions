@@ -32,6 +32,9 @@ for the leetcode problems that I've solved as well as the solutions
 | 1394 | Find Lucky Integer in an Array | [Java Solution](./HashTable/Find-Lucky-Integer.java) | [Leetcode Solution](https://leetcode.com/problems/find-lucky-integer-in-an-array/solution/) | Easy | Hash Table |
 | 1064 | Fixed Point | [Java Solution](./Array/Fixed-Point.java) | [Leetcode Solution](https://leetcode.com/problems/fixed-point/) | Easy | Array |
 | 532 | K Diff Pairs in a Array| [Java Solution](./Array/K-diff-Pairs.java)| [Leetcode Solution](https://leetcode.com/problems/k-diff-pairs-in-an-array/solution/) | Easy | Array |
+| 1437 | Check If All 1's Are at Least Length K Places Away | [Java Solution](./Array/ValuesAtLeastLengthK.java) | | Medium | Array|
+| 849 | Maximize Distance to Closest Person | [Java Solution](./Array/MaxSeatDistance) | [Leetcode Solution](https://leetcode.com/problems/maximize-distance-to-closest-person/solution/)| Medium | Array|
+
 
 
 
