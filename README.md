@@ -34,6 +34,9 @@ for the leetcode problems that I've solved as well as the solutions
 | 532 | K Diff Pairs in a Array| [Java Solution](./Array/K-diff-Pairs.java)| [Leetcode Solution](https://leetcode.com/problems/k-diff-pairs-in-an-array/solution/) | Easy | Array |
 | 1437 | Check If All 1's Are at Least Length K Places Away | [Java Solution](./Array/ValuesAtLeastLengthK.java) | | Medium | Array|
 | 849 | Maximize Distance to Closest Person | [Java Solution](./Array/MaxSeatDistance) | [Leetcode Solution](https://leetcode.com/problems/maximize-distance-to-closest-person/solution/)| Medium | Array|
+| 560 | SubArray Sum Equal to K | [Java Solution](./HashTable/SubArraySumEquals.java) | [Leetcode Solution](https://leetcode.com/problems/subarray-sum-equals-k/solution/) | Medium | Array/Hash Table|
+| 977 | Squares of Sorted Array | [Java Solution](./TwoPointers/SquaresSortedArray.java) | [Leetcode Solution](https://leetcode.com/problems/squares-of-a-sorted-array/solution/) | Easy | Two Pointers |
+| 925 | Long Pressed Name | [Java Solution](./TwoPointer/LongPressed.java) | [Leetcode Solution](https://leetcode.com/problems/long-pressed-name/solution/) | Easy | Two Pointers |
 
 
 

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+public class K-diff-Pairs{
     public int findPairs(int[] nums, int k) {
 
         Arrays.sort(nums);
