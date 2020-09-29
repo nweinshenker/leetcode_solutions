@@ -42,3 +42,4 @@ for the leetcode problems that I've solved as well as the solutions
 | 286 | Walls & Gates | [Java Solution](./BFS/NumberOfIslands.java) | [Leetcode Solution](https://leetcode.com/problems/walls-and-gates/solution/ ) | Medium | BFS |
 | 695 | Max Area of Island | [Java Solution](.DFS/MaxAreaIsland) | [Leetcode Solution] | Medium | BFS/DFS |
 | 215 | Kth largest in Array | [Java Solution](./Heap/findKthLargest.java) | [Leetcode Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/) | Medium | Heap |
+| 11 | Container with the Most Watter | [Java Solution](TwoPointer/ContainerWater.java) | [Leetcode Solution](https://leetcode.com/problems/container-with-most-water/solution/) | Medium | Two Pointer |
