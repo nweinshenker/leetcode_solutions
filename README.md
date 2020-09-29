@@ -39,8 +39,5 @@ for the leetcode problems that I've solved as well as the solutions
 | 925 | Long Pressed Name | [Java Solution](./TwoPointers/LongPressed.java) | [Leetcode Solution](https://leetcode.com/problems/long-pressed-name/solution/) | Easy | Two Pointers |
 | 763 | Partition Labels | [Java Solution](./TwoPointers/PartitionLabels.java) | [Leetcode Solution](https://leetcode.com/problems/partition-labels/solution/) | Medium | Two Pointers |
 | 200 | Number of Islands | [Java Solution](./BFS/NumberOfIslands.java) | [Leetcode Solution](https://leetcode.com/problems/number-of-islands/solution/) | Medium | BFS |
-| 286 | Walls & Gates | [Java Solution] | (./BFS/NumberOfIslands.java) | [Leetcode Solution](https://leetcode.com/problems/walls-and-gates/solution/ ) | Medium | BFS |
-
-
-
-
+| 286 | Walls & Gates | [Java Solution](./BFS/NumberOfIslands.java) | [Leetcode Solution](https://leetcode.com/problems/walls-and-gates/solution/ ) | Medium | BFS |
+| 695 | Max Area of Island | [Java Solution](.DFS/MaxAreaIsland) | [Leetcode Solution] | Medium | BFS/DFS |
