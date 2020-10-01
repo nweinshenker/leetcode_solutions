@@ -44,3 +44,7 @@ for the leetcode problems that I've solved as well as the solutions
 | 215 | Kth largest in Array | [Java Solution](./Heap/findKthLargest.java) | [Leetcode Solution](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/) | Medium | Heap |
 | 11 | Container with the Most Watter | [Java Solution](TwoPointers/ContainerWater.java) | [Leetcode Solution](https://leetcode.com/problems/container-with-most-water/solution/) | Medium | Two Pointer |
 | 50 | Pow(X, N) | [Java Solution](Math/MatrixExponentiation.java) | [Leetcode Solution](https://leetcode.com/problems/powx-n/solution/) | Medium | Math |
+| 1480 | Running Sum | [Java Solution](Array/RunningSum.java) | [Leetcode Solution] | Easy | Array |
+| 760 | Find Anagram Mapping | [Java Solution](Array/AnagramMap.java) | [Leetcode Solution](https://leetcode.com/problems/find-anagram-mappings/solution/) | Easy | Array |
+| 387 | First Unique Characters | [Java Solution](./Array/FirstUniqueChar.java) [Leetcode Solution](https://leetcode.com/problems/first-unique-character-in-a-string/solution/) | Easy | Array |
+| 981 | Time Based Key-Value Store | [Java Solution](./HashTable/TimeMap.java) | [Leetcode Solution](https://leetcode.com/problems/time-based-key-value-store/solution/) | Medium | Hash Table |
