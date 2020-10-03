@@ -48,3 +48,4 @@ for the leetcode problems that I've solved as well as the solutions
 | 760 | Find Anagram Mapping | [Java Solution](Array/AnagramMap.java) | [Leetcode Solution](https://leetcode.com/problems/find-anagram-mappings/solution/) | Easy | Array |
 | 387 | First Unique Characters | [Java Solution](./Array/FirstUniqueChar.java) [Leetcode Solution](https://leetcode.com/problems/first-unique-character-in-a-string/solution/) | Easy | Array |
 | 981 | Time Based Key-Value Store | [Java Solution](./HashTable/TimeMap.java) | [Leetcode Solution](https://leetcode.com/problems/time-based-key-value-store/solution/) | Medium | Hash Table |
+| 429 | N-ary Tree Level Order Traversal | [Java Solution](./Tree/NaryTraversal.java) | [Leetcode Solution](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | Medium | Tree/BFS |
