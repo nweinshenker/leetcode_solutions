@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bucky<leetcode_solutions_81621ba3>",
+            "request": "launch",
+            "mainClass": "Bucky",
+            "projectName": "leetcode_solutions_81621ba3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MissingWords<leetcode_solutions_81621ba3>",
+            "request": "launch",
+            "mainClass": "Extra.Sept21.MissingWords",
+            "projectName": "leetcode_solutions_81621ba3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Requests<leetcode_solutions_81621ba3>",
+            "request": "launch",
+            "mainClass": "Extra.Sept21.Requests",
+            "projectName": "leetcode_solutions_81621ba3"
+        }
+    ]
+}

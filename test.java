@@ -1,32 +1,33 @@
+import java.io.File;
+import java.util.NoSuchElementException;
+
 class Bucky {
+
+    static String searchFile(File file, String search) {
+        if (file.isDirectory()) {
+            File[] arr = file.listFiles();
+            for (File f : arr) {
+                String found = searchFile(f, search);
+                if (found != null)
+                    return found;
+            }
+        } else {
+            if (file.getName().equals(search)) {
+                return file.getAbsolutePath();
+            }
+        }
+        return null;
+    }
+
     public static void main(String[] args) {
-        int WIDTH = 7;
-        int HEIGHT = 3;
-        char ch = 'A';
-        String[][] array = new String[HEIGHT][];
-        for (int i = 0; i < HEIGHT; i++) {
-            array[i] = new String[WIDTH];
-            for (int j = 0; j < WIDTH; j++, ch++) {
-                array[i][j] = "" + ch;
-            }
+        File f = new File("/Users/nathanweinshenker/Documents/Code2.0/Winter2019/leetcode_solutions");
+        if (f.exists()) {
+            System.out.println(f.getAbsolutePath());
         }
-
-        for (int i = 0; i < HEIGHT; i++) {
-            for (int j = 0; j < WIDTH; j++, ch++) {
-                System.out.print(array[i][j] + " ");
-            }
-            System.out.println();
+        String result = searchFile(f, "MissingWords.java");
+        if (result == null) {
+            throw new NoSuchElementException();
         }
-        System.out.println("============================");
-
-        for (int k = 0; k <= WIDTH + HEIGHT - 2; k++) {
-            for (int j = 0; j <= k; j++) {
-                int i = k - j;
-                if (i < HEIGHT && j < WIDTH) {
-                    System.out.print(array[i][j] + " ");
-                }
-            }
-            System.out.println();
-        }
+        System.out.println(result);
     }
 }
